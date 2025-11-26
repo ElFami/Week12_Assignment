@@ -7,7 +7,7 @@ public class file_delete {
             System.out.println("The deleted file is : " + Obj.getName());
         }
         else {
-            System.out.println("Fail deleting file bjir");
+            System.out.println("Fail deleting file bjier");
         }
     }
 }
